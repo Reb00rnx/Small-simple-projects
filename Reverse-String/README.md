@@ -7,4 +7,7 @@ A simple Java console application that reverses a given string.
 - **String reversal** using a manual loop
 - **Immediate output** of the reversed string
 
-## ▶️
+## ▶️ How to Run
+```bash
+javac ReverseString.java
+java ReverseString
