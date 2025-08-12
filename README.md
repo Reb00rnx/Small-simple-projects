@@ -13,8 +13,6 @@ Each project is stored in its own folder with a dedicated `README.md` describing
 - **ReverseString** – String reversal utility
 - **RockPaperScisors** – Best-of-three Rock–Paper–Scissors game
 - **RomanToInt** – Roman numeral to integer converter
-- **TripletLoss** – Simple machine learning loss function example
-
 ---
 
 💡 **Note**:  
